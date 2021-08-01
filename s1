@@ -1,6 +1,6 @@
 mgmt_ip: 10.0.1.111
 vlands:
-  red:
+  pink:
     id: 10
   blue:
     id:20
